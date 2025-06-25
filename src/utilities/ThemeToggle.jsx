@@ -84,7 +84,7 @@ export default function ThemeToggle() {
 
        {/*system*/}
       
-      <label className={`btn rounded-full ${mode==='system' ? 'bg-gray-700' : ''} btn-sm btn-circle swap swap-rotate p-2`}>
+      <label title="System" className={`btn rounded-full ${mode==='system' ? 'bg-gray-700' : ''} btn-sm btn-circle swap swap-rotate p-2`}>
         <input
           type="radio"
           name="theme"
@@ -99,7 +99,7 @@ export default function ThemeToggle() {
 
       {/* Light */}
 
-      <label className={`btn rounded-full ${mode==='light' ? 'bg-gray-700' : ''} btn-sm btn-circle swap swap-rotate p-2`}>
+      <label title="Light" className={`btn rounded-full ${mode==='light' ? 'bg-gray-700' : ''} btn-sm btn-circle swap swap-rotate p-2`}>
         <input
           type="radio"
           name="theme"
@@ -114,7 +114,7 @@ export default function ThemeToggle() {
 
       {/* Dark */}
 
-      <label className={`btn rounded-full ${mode==='dark' ? 'bg-gray-700' : ''} btn-sm btn-circle swap swap-rotate p-2`}>
+      <label title="Dark" className={`btn rounded-full ${mode==='dark' ? 'bg-gray-700' : ''} btn-sm btn-circle swap swap-rotate p-2`}>
         <input
           type="radio"
           name="theme"
