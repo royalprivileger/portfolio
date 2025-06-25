@@ -96,7 +96,7 @@ export default function Experience() {
                           layoutId={item.title}
                           layout
                           onClick={() => handleSelect(item)}
-                          className={`w-full min-[600px]:w-[47%]  bg-gradient-to-${isMobile? 'br' : isLeft ? 'bl' : 'br'} from-indigo-100 to-indigo-400 dark:from-gray-700 dark:to-gray-800 dark:bg-gradient-to-bl shadow-lg p-6 rounded-md cursor-pointer z-30 ${
+                          className={`w-full min-[600px]:w-[47%]  ${isMobile ? 'bg-gradient-to-br' : isLeft ? 'bg-gradient-to-bl' : 'bg-gradient-to-br'} from-indigo-100 to-indigo-400 dark:from-gray-700 dark:to-gray-800 dark:bg-gradient-to-bl shadow-lg p-6 rounded-md cursor-pointer z-30 ${
                             selectedItem?.title === item.title
                               ? ""
                               : selectedItem
