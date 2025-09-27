@@ -110,9 +110,9 @@ export default function Experience() {
                           <h3 className="text-xl font-semibold mb-1">
                             {item.title}
                           </h3>
-                          {item.date && (
-                            <p className="text-md text-gray-500 dark:text-white mb-2">
-                              {item.date}
+                          {item.company && (
+                            <p className="text-md text-black-500 dark:text-white mb-2">
+                              {item.company}
                               <AnimatePresence>
                                 {selectedItem?.title === item.title && (
                                   <motion.span

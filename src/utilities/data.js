@@ -13,7 +13,7 @@ export const timelineItems = [
   },
   {
     title: "SDE - I",
-    date: "Jio Platforms LTD",
+    company: "Jio Platforms LTD",
     showDate: "Mar, 2023 - Jul, 2024",
     description: "Click to Expand",
     detailedDescription:
@@ -21,7 +21,7 @@ export const timelineItems = [
   },
   {
     title: "Assistant Manager",
-    date: "Jio Platforms LTD",
+    company: "Jio Platforms LTD",
     showDate: "Aug, 2021 - Mar, 2023",
     description: "Click to Expand",
     detailedDescription:
@@ -29,7 +29,7 @@ export const timelineItems = [
   },
   {
     title: "Bachelor of Engineering - EXTC",
-    date: "Pillai College of Engineering, Mumbai University",
+    company: "Pillai College of Engineering, Mumbai University",
     showDate: "Aug, 2017 - Jun, 2021",
     description: "Click to Expand",
     detailedDescription:
@@ -37,7 +37,7 @@ export const timelineItems = [
   },
   {
     title: "Internship - BSNL Satellite Training",
-    date: "Summer 2020",
+    company: "Summer 2020",
     showDate: "Jun, 2020",
     description: "Click to Expand",
     detailedDescription:
