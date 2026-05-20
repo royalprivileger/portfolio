@@ -6,10 +6,10 @@ export const timelineItems = [
   {
     title: "SDE - I (K2 Five Frontend Developer)",
     company: "LTIMindtree (Contractor via Advance Career Solutions)",
-    showDate: "Aug 2025 - Present",
+    showDate: "Aug 2025 - May 2026",
     description: "Click to Expand",
     detailedDescription:
-      "Working as a SDE Nintex K2 frontend developer for LTIMindtree (on payroll with Advance Career Solutions). Developing and maintaining enterprise webpages/forms using Nintex K2 (low code - no code tool). Implementing multiple K2 workflows to improve throughput and UI workflows in collaboration with cross-functional teams.",
+      "Worked as a SDE Nintex K2 frontend developer for LTIMindtree (on payroll with Advance Career Solutions). Developing and maintaining enterprise webpages/forms using Nintex K2 (low code - no code tool). Implementing multiple K2 workflows to improve throughput and UI workflows in collaboration with cross-functional teams.",
   },
   {
     title: "SDE - I",
