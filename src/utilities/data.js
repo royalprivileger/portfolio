@@ -4,6 +4,14 @@
 
 export const timelineItems = [
   {
+    title: "Senior Low Code Developer",
+    company: "ProInception",
+    showDate: "Jun 2026 - Present",
+    description: "Click to Expand",
+    detailedDescription:
+      "As a Senior Low Code Developer at ProInception, I architect and develop enterprise-grade applications using the K2 Low-Code Platform. My responsibilities include designing modern and responsive user interfaces with custom Style Profiles, building workflow-centric business applications, and integrating K2 with SQL Server and SAP to streamline business operations. I focus on delivering scalable, secure, and high-performance solutions by optimizing workflows, improving user experience, and ensuring seamless data integration across enterprise systems. I work closely with stakeholders and development teams to translate business requirements into robust low-code applications that improve operational efficiency and accelerate digital transformation.",
+  },
+  {
     title: "SDE - I (K2 Five Frontend Developer)",
     company: "LTIMindtree (Contractor via Advance Career Solutions)",
     showDate: "Aug 2025 - May 2026",
